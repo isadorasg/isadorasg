@@ -15,5 +15,5 @@ Sou uma profissional em **transição de carreira** para a área de Dados, com *
 * **Extração e Modelagem:** $SQL$ e $BigQuery$.
 * **Visualização Estratégica:** Dashboards no $Looker\ Studio$ de acompanhamento de performance e entregas de times, utilizando dados brutos.
     * **Techs:** $SQL$, $BigQuery$, $Looker\ Studio$.
-* **Conhecimento de Negócio:** Performance de times ($Kanban$) e Controle Financeiro ($Capex$). **Análise histórica da evolução e controle do Capex da folha de tecnologia, baseada em dados extraídos por SQL.
-    * **Techs:** $SQL$, $BigQuery$.**
+* **Conhecimento de Negócio:** Performance de times ($Kanban$) e Controle Financeiro ($Capex$). Análise histórica da evolução e controle do Capex da folha de tecnologia, baseada em dados extraídos por SQL.
+    * **Techs:** $SQL$, $BigQuery$.
